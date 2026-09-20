@@ -1,6 +1,6 @@
 package assignment2.products;
 
-public class MacOSCheckbox implements Button{
+public class MacOSCheckbox implements Checkbox{
     @Override
     public void paint() {
         System.out.println("MacOS Checkbox");
